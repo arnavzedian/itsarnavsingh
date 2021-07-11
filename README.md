@@ -1,5 +1,6 @@
-### Hi 👋. I am a Fullstack developer, 3D blender artist & Blogger.
-
+### Hi 👋 
+I am a Fullstack developer, 3D Artist & Blogger.
+<br/>
 ### Fullstack Projects
 
 | <br/><img src="./upon.one.png" height="100" width="100"><br/>  | <br/><img src="./charliewho.png" height="100" width="100"><br/>  | <br/><img src="./bestfella.png" height="100" width="100"> <br/> |
