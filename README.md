@@ -1,36 +1,15 @@
-## Hi 👋. I am a Fullstack developer, 3D blender artist & Blogger.
-
+### Hi 👋. I am a Fullstack developer, 3D blender artist & Blogger.
 
 ### Fullstack Projects
 
-<br/>
-<br/>
-<br/>
-    
-  <a target="_blank" href="https://www.upon.one" class="sc-iqsfdx fYdb">
-  
-  <img height="100px" width="100px" src="./upon.one.png" class="sc-egiSv iyWWIA">
-  ### upon.one
- 
-  A simple static hosting service. Stack: Nodejs, MongoDB, App engine, React.js
-  </a>
-  
-  <br/>
-  <br/>
-  <br/>
-  
-  <a target="_blank" href="https://charliewho.upon.one" class="sc-iqsfdx fYdb">
-  <img height="100px" width="100px" src="./charliewho.png" class="sc-egiSv iyWWIA"><div class="sc-ksdxAp fdYigH"><h3 class="sc-hBURRC bfcEnS">Charlie Who? </h3><div class="sc-fotPbf duBHuL">Online Dumb charadres game</div><div class="sc-fFehDp kGvAFP">Stack: React.js, Nodejs, WebRTC, WebSockets</div></div></a>
-  
-  <br/>
-  <br/>
-  <br/>
-  
-  <a target="_blank" href="https://bestfella.upon.one" class="sc-iqsfdx fYdb">
-  <img height="100px" width="100px" src="./bestfella.png" class="sc-egiSv iyWWIA"><div class="sc-ksdxAp fdYigH"><h3 class="sc-hBURRC bfcEnS">Bestfella </h3><div class="sc-fotPbf duBHuL">Rent, Donate &amp; Sell in your city, with spam prevention and GPS</div><div class="sc-fFehDp kGvAFP">Stack: Flutter, Nodejs, MongoDB, Google Cloud Storage, Mapbox</div></div></a>
+| <br/><img src="./upon.one.png" height="100" width="100"><br/>  | <br/><img src="./charliewho.png" height="100" width="100"><br/>  | <br/><img src="./bestfella.png" height="100" width="100"> <br/> |
+| ------------- | ------------- | ------------- |
+| [upon.one](https://www.upon.one)  | [Charliewho](https://charliewho.upon.one) |  [Bestfella](https://bestfella.upon.one) |
+| simple static hosting service  | Online Dumb charadres  |  Sell in your city, with spam prevention and GPS  |
+| Nodejs, MongoDB, App engine, React.js | React.js, Nodejs, WebRTC, WebSockets  |  Flutter, Nodejs, MongoDB, Google Cloud Storage, Mapbox |
 
 
-# 3D art
+### 3D art
 
 
 
